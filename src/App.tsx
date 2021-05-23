@@ -37,5 +37,3 @@ const App: React.FC<IAppOwnProps> = ({ userType, username }): JSX.Element => {
 };
 
 export default App;
-// https://medium.com/@richardprasad42/typescript-with-react-crash-course-7a81013a8f64
-// Type Definitions and React Router
